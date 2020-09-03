@@ -1,0 +1,15 @@
+body {
+  font: 14px Helvetica, Arial, sans-serif;
+  margin: 0px;
+  padding: 0px;
+  background: white;
+}
+
+a {
+  color: #00B7FF;
+  text-decoration: none;
+}
+
+#title {
+  padding-left: 50px;
+}
